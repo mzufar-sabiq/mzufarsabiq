@@ -17,7 +17,7 @@ if( isset($_POST["submit"]) ) {
     <title>login</title>
 </head>
 <body>
-    <h1>Login Admin SA</h1>
+    <h1>Login SA</h1>
 
     <?php if( isset($error) ) : ?>
         <p style="color: red; font-style: italic;" text-decoration>username/password salah</p>

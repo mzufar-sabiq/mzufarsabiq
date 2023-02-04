@@ -25,7 +25,7 @@ $result = mysqli_query($conn, "SELECT * FROM db_hokage");
     <title>Data hkg</title>
 </head>
 <body>
-    <h1>Daftar Hokage</h1>
+    <h1>Daftar Hokage Konoha</h1>
 
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
